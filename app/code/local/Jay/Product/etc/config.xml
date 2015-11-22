@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Jay_Product>
+			<version>1.0.1</version>
+		</Jay_Product>
+	</modules>
+	<global>
+		<resources>
+			<jay_product_setup>
+				<setup>
+					<module>Jay_Product</module>
+				</setup>
+			</jay_product_setup>
+		</resources>
+	</global>
+</config>
